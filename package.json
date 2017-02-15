@@ -1,0 +1,13 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Belen Curcio <curciobelen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "googleapis": "^16.1.0"
+  }
+}
